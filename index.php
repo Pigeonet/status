@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,7 +7,6 @@
     <link rel="shortcut icon" href="status/images/favicon.png" type="image/x-icon">
     <link rel="stylesheet" href="status/style/index.css">
 </head>
-
 <body>
     <h1 class="title">Servizi di Pigeonet</h1>
     <div class="container">
@@ -40,8 +38,6 @@
             </div> -->
         </div>
     </div>
-
-    
     <h1 class="title">Attività recenti:</h1>
     <div class="act-container">
         <div class="activities">
@@ -53,5 +49,4 @@
     </div>
 <br><br><br><br>
 </body>
-
 </html>
