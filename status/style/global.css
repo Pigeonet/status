@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;700&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+:root{
+    --primary: rgb(235, 108, 49);
+    --bg: #FCFCFC;
+    --text: #1f1f1f;
+}
+
+
+::selection{
+    background-color: rgb(235, 108, 49);
+    color: #FCFCFC;
+}
+
+
+body{
+    font-family: 'Heebo', sans-serif;
+    background-color: var(--bg);
+    margin: 0;
+}
+
